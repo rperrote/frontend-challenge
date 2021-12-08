@@ -1,0 +1,14 @@
+.photos {
+    padding: 50px;
+    position: relative;
+}
+
+.photos > .addPhoto {
+    position: absolute;
+    top: 15px;
+    padding: 5px;
+    border: 2px solid #0E3D63;
+    color: #0E3D63;
+    cursor: pointer;
+    font-weight: bold;
+}
